@@ -1,2 +1,2 @@
-# Tugas-Analisis-Eksperimen-Supervised-Learning-Unsupervised-Learning-dan-Data-Preprocessing
-Tugas Analisis Eksperimen Supervised Learning, Unsupervised Learning, dan Data Preprocessing
+# Yudhistira Rizky Ramadhan (G1A024079)
+
